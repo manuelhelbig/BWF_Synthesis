@@ -4,7 +4,6 @@
 % used for Helbig et al. (????) Increasing contribution of peatlands to boreal evapotranspiration in a warming climate
 function [par_gs, RMSE_GS, R2_GS, VPD_BINS_UP, GS_BINS_UP, ET_BINS_UP, Bo_BINS, EF_BINS] = boundary_line_analysis(DOY, HH, H, LE, VPD, RN, SWIN, TA, GS, ga, time_start, time_end, DOY_start, DOY_end)
 %%% input variables %%%
-% lng = number of sites
 % DOY = day of year of dataset
 % HH = timestamp (hours)
 % H = sensible heat flux (W m-2)
