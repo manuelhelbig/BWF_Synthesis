@@ -13,8 +13,7 @@ function [gs] = gs(H,LE,VPD,TA,ga,presstrue,lamdatrue,press)
 % presstrue: 1 if measured barometric pressure should be used
 % lamdatrue: 1 if latent heat of vaporization should be calculated based on TA
 % press: barometric pressure (kPa)
-
-% roh: air density (kg m-3)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % gas constant of dry air (J kg-1 K-1) (Foken 2008 p. 245)
 Rd = 287.0586;        
