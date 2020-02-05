@@ -3,4 +3,8 @@
 # Helbig et al. (2020): Increasing contribution of peatlands to boreal evapotranspiration in a warming climate. Nature Climate Change ??
 ############################################################
 # The following code is available:
-# CSV_READ_BOREAL.m - reads eddy covariance flux data for boreal peatland and forest sites
+# gs.m - derives surface conductance by inverting the Penman-Monteith equation
+# ga.m
+# dryness_index_CRU.m
+# future_ET_ratio.m
+# 
