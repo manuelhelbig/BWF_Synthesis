@@ -1,7 +1,7 @@
 function [ga] = ga(USTAR,WS)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % created by M. Helbig (helbigm@mcmaster.ca) on 2020-02-04
-% calculates surface conductance (m s-1) by inverting the Penman-Monteith equation
+% calculates aerodynamic conductance (m s-1) 
 % used for Helbig et al. (????) Increasing contribution of peatlands to boreal evapotranspiration in a warming climate
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Inputs:
