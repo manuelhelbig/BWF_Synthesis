@@ -1,0 +1,96 @@
+SITE,PFT,LAI,LAT,LONG,annTMP,annPRE,annPET,gsPET,FEN/BOG,VEGETATION TYPE,EBC,EBC_REF,gsET,YEARS,SITE MONTHS (GROWING SEASON),BOWEN RATIO (July),"BOWEN RATIO (> 2 kPa, July)",MODIS Albedo (July),g1,g0,Data source/Reference/DOI/Data ownership
+CA-ABB,PTL,2.1,55.98,-115.19,1.4,474,582,445,FEN,Sphagnum-dominated minerotrophic fen,NA,NA,284,2,10,0.49,0.42,0.11,7.5,-0.74,"Richard Petrone, University of Waterloo"
+CA-ABU,PTL,2.4,55.88,-115.11,1.4,474,582,445,BOG,ombrotrophic bog,NA,NA,288,1,8,1.12,1.23,0.11,8.8,-2.22,"Richard Petrone, University of Waterloo"
+CA-ARB,PTL,1.4,52.70,-83.95,-1.4,596,511,425,BOG,ombrotrophic bog,NA,NA,300,5,24,0.62,0.42,0.12,9.1,-0.89,DOI:10.17190/AMF/1480318
+CA-ARF,PTL,1.6,52.70,-83.96,-1.4,596,511,425,FEN,patterned fen,NA,NA,315,5,25,0.55,0.36,0.12,11.9,-2.27,DOI:10.17190/AMF/1480319
+CA-BCO,PTL,1.9,49.13,-68.28,2.1,1105,598,462,BOG,ombrotrophic bog,NA,NA,331,1,5,0.36,0.19,0.13,NA,NA,Pelletier et al. 2015
+CA-BOU,PTL,1.3,50.52,-63.21,-2.9,1018,423,348,BOG,ombrotrophic bog,NA,NA,NA,NA,4,1.20,1.21,0.10,14.7,-7.21,"Michelle Garneau, Université du Québec à Montréal"
+CA-GRO,MF,4.9,48.22,-82.16,1.9,862,617,487,NA,boreal mixedwood forest,0.96,Pejam et al. 2006,307,10,52,0.45,0.64,0.12,17.7,-6.88,DOI:10.17190/AMF/1245996
+CA-HPC,ENF,1.5,68.32,-133.52,-8.6,228,339,323,NA,black spruce forest,0.63,PI,158,2,12,NA,NA,0.11,NA,NA,"Unpublished data, https://ameriflux.lbl.gov/sites/siteinfo/CA-HPC"
+CA-JBB,ENF,0.7,52.27,-76.75,-2.0,767,488,405,NA,burned 7 yr Jack pine forest,NA,NA,330,1,9,1.69,2.37,0.11,12.1,-5.96,"Strachan et al., 2016b"
+CA-JBP,PTL,1.6,52.29,-75.84,-2.0,775,486,404,BOG,ombrotrophic bog,NA,NA,243,3,23,0.55,0.50,0.11,15.7,-6.64,"Strachan et al., 2016a"
+CA-JBS,ENF,1.4,52.10,-76.20,-2.0,776,488,405,NA,84-yr black spruce forest,NA,NA,261,5,32,1.04,1.40,0.08,13.0,-6.05,"Strachan et al., 2016b"
+CA-MAN,ENF,2.1,55.88,-98.48,-2.5,509,530,439,BOG,mature Black Spruce,0.96,Barr et al. 2001,275,5,42,1.51,1.54,0.08,9.5,-3.38,DOI:10.17190/AMF/1245997
+CA-MER,PTL,2.8,45.41,-75.52,6.0,954,726,537,BOG,ombrotrophic bog,0.91,PI,358,20,99,0.44,0.42,0.15,7.9,0.65,https://ameriflux.lbl.gov/sites/siteinfo/CA-Mer
+CA-NEC,PTL,1.3,53.67,-78.17,-2.5,654,470,392,BOG,ombrotrophic bog,0.7,Isabelle et al. 2018,NA,NA,4,0.54,0.27,0.11,23.6,-10.96,"Isabelle et al., 2015"
+CA-NOB,PTL,2.1,45.45,-80.16,6.0,887,695,526,BOG,rock barren-peatland,0.89,PI,386,2,13,1.04,1.03,0.13,13.5,-4.32,DOI:10.17190/AMF/1245998
+CA-NS1,ENF,2.1,55.88,-98.48,-2.5,509,530,439,NA,black spruce forest,NA,NA,208,4,19,1.68,1.79,0.08,7.0,-2.49,DOI:10.17190/AMF/1245999
+CA-NS2,ENF,2.4,55.91,-98.52,-2.2,487,541,450,NA,black spruce forest,NA,NA,197,5,22,1.41,1.52,0.09,6.4,-1.69,DOI:10.17190/AMF/1246000
+CA-NS3,ENF,1.8,55.91,-98.38,-2.5,509,530,439,NA,Jack pine and aspen forest,NA,NA,213,5,23,1.26,1.48,0.10,11.3,-4.79,DOI:10.17190/AMF/1246001
+CA-NS4,ENF,1.8,55.91,-98.38,-2.5,509,530,439,NA,Jack pine and aspen forest,NA,NA,137,3,15,1.61,1.66,0.11,4.9,-2.08,DOI:10.17190/AMF/1246002
+CA-NS5,ENF,2.5,55.86,-98.49,-2.5,509,530,439,NA,young Jack pine forest,NA,NA,213,4,22,0.74,0.73,0.10,10.0,-3.15,DOI:10.17190/AMF/1246003
+CA-NS6,OSH,2.7,55.92,-98.96,-2.2,487,541,450,NA,post-burn open shrubland,NA,NA,185,4,20,1.05,1.20,0.12,6.7,-1.80,DOI:10.17190/AMF/1246004
+CA-NS7,OSH,1.3,56.64,-99.95,-2.9,464,535,449,NA,post-burn open shrubland,NA,NA,217,4,19,1.14,1.20,0.10,10.3,-4.18,DOI:10.17190/AMF/1246005
+CA-NS8,ENF,1.9,55.90,-98.22,-2.5,509,530,439,NA,burned black spruce forest,NA,NA,NA,NA,11,0.59,0.66,0.10,11.2,-5.61,"James M. Waddington, McMaster University"
+CA-NSF,PTL,2.0,55.91,-98.42,-2.5,509,530,439,FEN,minerotrophic fen,0.69,Barr et al. 2001,242,2,10,0.30,0.24,0.11,NA,NA,https://daac.ornl.gov/BOREAS/bhs/Sites1/NSA-Fen.html
+CA-OAS,DBF,5.1,53.63,-106.20,0.5,454,626,494,NA,mature aspen forest,0.88,Barr et al. 2012,330,15,75,0.34,0.38,0.14,23.7,-8.39,DOI:10.17190/AMF/1375197
+CA-OBS,ENF,2.1,53.99,-105.12,0.7,455,636,508,NA,mature black spruce forest,0.84,Barr et al. 2012,256,18,90,1.31,1.63,0.08,9.6,-3.38,DOI:10.17190/AMF/1375198
+CA-OJP,ENF,1.7,53.92,-104.69,0.7,464,643,517,NA,mature Jack pine forest,0.85,Barr et al. 2012,225,7,35,1.75,2.23,0.09,12.7,-6.00,DOI:10.17190/AMF/1375199
+CA-PAU,PTL,2.8,56.22,-111.14,-0.2,472,552,440,FEN,spruce-dominated treed fen,NA,NA,NA,NA,5,0.77,0.65,0.09,5.9,-0.33,"Richard Petrone, University of Waterloo"
+CA-POP,PTL,2.7,56.56,-111.33,0.7,437,597,478,FEN,larch-dominated treed fen,NA,NA,NA,NA,5,0.58,0.46,0.11,10.3,0.08,"Richard Petrone, University of Waterloo"
+CA-QC2,MF,2.6,49.76,-74.57,0.3,911,549,440,NA,harvested black spruce forest,NA,NA,333,3,17,0.65,0.83,0.10,15.5,-6.34,DOI:10.17190/AMF/1419514
+CA-QCU,ENF,2.3,49.27,-74.04,0.5,906,541,432,NA,black spruce/Jack pine cutover,NA,NA,318,5,45,0.59,0.75,0.11,19.0,-9.25,DOI:10.17190/AMF/1246828
+CA-QFO,ENF,2.2,49.69,-74.33,-0.1,919,535,427,NA,mature black spruce forest,NA,NA,227,5,24,1.40,1.68,0.09,9.7,-4.48,DOI:10.17190/AMF/1246829
+CA-SCB,PTL,2.2,61.31,-121.30,-2.7,383,518,441,BOG,collapse-scar bog,0.78,Helbig et al. 2016,333,3,18,0.32,0.23,0.11,11.9,-2.70,DOI:10.17190/AMF/1498754
+CA-SCC,ENF,2.2,61.31,-121.30,-2.7,383,518,441,NA,black spruce forest,0.79,Helbig et al. 2016,279,5,25,0.89,0.90,0.11,11.2,-3.86,DOI:10.17190/AMF/1480303
+CA-SF1,ENF,2.4,54.49,-105.82,0.2,479,599,478,NA,post-fire intermediate-aged pine/spruce forest,1.01,Amiro 2009,386,3,18,0.70,0.82,0.10,19.6,-7.60,DOI:10.17190/AMF/1246006
+CA-SF2,ENF,3.2,54.25,-105.88,0.2,479,599,478,NA,post-fire young pine/aspen/spruce forest,1.01,Amiro 2009,286,4,27,0.90,0.81,0.12,9.3,-1.46,DOI:10.17190/AMF/1246007
+CA-SF3,OSH,2.3,54.09,-106.01,0.3,475,601,478,NA,post-fire regenerating forest with standing-dead overstory,1.02,Amiro 2009,286,4,27,0.90,0.81,0.11,9.3,-1.46,DOI:10.17190/AMF/1246008
+CA-SJ1,ENF,2.2,53.91,-104.66,0.7,464,643,517,NA,young Jack pine forest,0.72,PI,160,2,10,2.87,3.23,0.10,-0.2,1.32,DOI:10.17190/AMF/1436320
+CA-SJ2,ENF,1.5,53.95,-104.65,0.7,464,643,517,NA,young Jack pine forest,0.81,PI,153,5,28,1.75,2.18,0.11,7.5,-3.58,DOI:10.17190/AMF/1436321
+CA-SJ3,ENF,2.6,53.88,-104.65,0.7,464,643,517,NA,intermediate-aged Jack pine forest,0.79,PI,191,3,15,1.50,1.81,0.09,10.0,-3.65,DOI:10.17190/AMF/1436322
+CA-SMC,ENF,1.1,63.15,-123.25,-5.3,340,459,406,NA,black spruce forest,0.81,PI,205,1,8,1.47,1.58,0.09,10.4,-4.54,"Unpublished data, https://ameriflux.lbl.gov/sites/siteinfo/CA-SMC"
+CA-SSF,PTL,2.4,53.80,-104.62,0.7,464,643,517,FEN,minerogenic fen,0.81,Barr et al. 2012,NA,NA,9,0.09,0.08,0.10,NA,NA,https://daac.ornl.gov/BOREAS/bhs/Sites1/SSA-Fen.html
+CA-WCF,ENF,1.4,60.60,-134.95,-2.1,220,477,390,NA,white spruce forest,0.87,PI,239,2,10,1.47,1.88,0.14,16.9,-8.96,"Sean Carey, McMaster University"
+CA-WP1,PTL,2.8,54.95,-112.47,-7.3,421,485,478,FEN,black spruce/larch fen,NA,NA,269,6,32,0.57,0.44,0.11,6.9,0.14,DOI:10.17190/AMF/1436323
+CA-WP2,PTL,2.6,55.54,-112.34,0.5,468,573,449,FEN,Sphagnum-dominated poor fen,NA,NA,NA,NA,13,0.25,0.12,0.14,15.9,-3.77,DOI:10.17190/AMF/1436324
+CA-WP3,PTL,NA,54.47,-113.33,2.5,469,652,498,FEN,Carex-dominated rich fen,NA,NA,NA,NA,10,0.42,0.44,0.12,19.4,-8.87,DOI:10.17190/AMF/1436325
+FI-ALK,ENF,3.4,62.18,22.78,4.3,552,490,404,NA,pine forest,1.1,Alekseychik et al. 2018,NA,NA,11,0.28,NA,0.12,NA,NA,http://www.europe-fluxdata.eu/home/site-details?id=FI-Alk
+FI-HYY,ENF,4.0,61.85,24.29,3.8,578,482,396,NA,50-yr old Scots pine forest,0.87,Mammarella et al. 2009,259,19,95,0.78,1.09,0.11,14.8,-6.55,DOI:10.18140/FLX/1440158
+FI-KAA,PTL,1.0,69.14,27.30,-1.3,450,362,314,FEN,mesotrophic flark fen,NA,NA,231,13,62,0.50,0.42,0.11,11.4,-3.29,http://gaia.agraria.unitus.it/ghg-europe/site-details?id=FI-Kaa
+FI-KNS,ENF,2.7,60.65,24.36,4.5,589,482,401,NA,dwarf-shrub Scots pine forest,0.91,Lohila et al. 2011,229,2,19,1.00,1.79,0.11,16.2,-9.16,http://www.europe-fluxdata.eu/home/site-details?id=FI-Kns
+FI-LET,ENF,3.4,60.64,23.96,4.6,584,488,404,NA,Scots pine-dominated mixed forest,0.96,Launianen et al. 2016,316,3,16,0.78,1.30,0.11,23.9,-12.88,DOI:10.18140/FLX/1440227
+FI-LOM,PTL,1.4,68.00,24.21,-0.1,416,401,351,FEN,minerotrophic sedge fen,NA,NA,245,3,15,0.59,NA,0.11,14.0,-2.90,DOI:10.18140/FLX/1440228
+FI-SAL,PTL,1.8,62.77,30.97,2.8,614,467,394,FEN/BOG,poor fen,0.86,Wu et al. 2010,243,1,13,0.31,0.18,0.14,8.3,-0.88,"Wu et al., 2010"
+FI-SI1,PTL,1.7,61.83,24.19,3.8,578,482,396,FEN,poor fen,0.92,Alekseychik et al. 2018,278,10,50,0.41,0.36,0.13,13.7,-2.76,"Rinne et al. 2018, https://www.atm.helsinki.fi/Eddy_Covariance/Siikaneva_I_EC.php"
+FI-SI2,PTL,1.9,61.84,24.17,3.8,578,482,396,BOG,ombrotrophic bog,0.74,Alekseychik et al. 2018,NA,0,21,0.31,0.10,0.13,18.7,-6.79,"Unpublished data, https://www.atm.helsinki.fi/Eddy_Covariance/Siikaneva_II_EC.php"
+FI-SOD,ENF,1.1,67.36,26.64,0.1,467,399,345,NA,Scots pine forest,0.96,Sanchez et al. 2010,239,13,69,1.10,1.47,0.10,12.0,-5.53,DOI:10.18140/FLX/1440160
+FI-VAR,ENF,1.1,67.76,29.62,-0.7,589,375,318,NA,Scots pine forest,NA,NA,133,2,13,1.23,1.68,0.10,12.1,-7.36,http://www.europe-fluxdata.eu/carboextreme/site-details?id=FI-Var
+RU-FYO,ENF,3.4,56.46,32.92,4.9,746,547,432,NA,Norway spruce forest,0.83,Launiainen et al. 2016,312,17,83,0.87,1.30,0.11,21.8,-10.23,DOI:10.18140/FLX/1440183
+RU-IGR,PTL,2.2,67.48,86.44,-6.9,538,325,294,BOG,palsa mire,NA,NA,142,2,13,1.22,1.05,0.12,6.7,-1.66,"Anatoly Prokushkin, Siberian Branch of the Russian Academy of Sciences"
+RU-KOM,PTL,1.8,61.94,50.23,1.4,609,479,397,FEN,minerotrophic fen,0.97,Runkle et al. 2014,374,1,5,0.25,0.19,0.17,19.8,-4.82,Runkle et al. 2014
+RU-MUK,PTL,NA,60.90,68.70,-0.8,536,467,396,FEN,ombrotrophic bog,0.99,Alekseychik et al. 2017,418,1,7,0.34,0.21,0.15,14.0,-3.57,"Alekseychik et al., 2017"
+RU-SKP,DNF,2.0,62.26,129.17,-9.9,280,459,417,NA,Gmelin larch forest,0.9,Ohta et al. 2008,224,3,15,1.10,1.15,0.12,17.5,-10.08,DOI:10.18140/FLX/1440243
+RU-TUR,DNF,1.4,64.21,100.46,-9.2,390,399,357,NA,Gmelin larch forest,0.83,Nakai et al. 2008,NA,NA,9,1.75,2.19,0.11,9.6,-4.46,"Nakai et al., 2008"
+RU-YPF,ENF,3.6,62.24,129.65,-9.7,270,463,423,NA,Scots pine forest,1.01,Hamada et al. 2004,200,4,19,1.53,1.46,0.14,9.4,-4.54,http://asiaflux.net/index.php?page_id=123
+RU-ZOB,PTL,2.6,60.82,89.39,-2.2,570,462,394,BOG,ombrotrophic bog,NA,NA,136,1,12,0.75,0.72,0.11,9.6,-4.38,"Anatoly Prokushkin, Siberian Branch of the Russian Academy of Sciences"
+RU-ZOE,ENF,3.4,61.03,89.79,-2.6,582,452,389,NA,Scots pine forest,NA,NA,140,1,5,1.34,1.29,0.13,8.6,-2.57,"Anatoly Prokushkin, Siberian Branch of the Russian Academy of Sciences"
+RU-ZOP,ENF,2.0,60.81,89.36,-2.2,570,462,394,NA,Scots pine forest,NA,NA,NA,NA,9,1.53,1.59,0.10,NA,NA,Park et al. 2018
+RU-ZOT,ENF,1.6,60.80,89.35,-2.2,570,462,394,NA,Scots pine forest,0.78,Tchebakova et al. 2002,204,3,13,1.20,1.81,0.11,11.8,-5.57,http://www.europe-fluxdata.eu/home/site-details?id=RU-Zot
+SE-DEG,PTL,1.4,64.18,19.55,1.7,654,446,379,FEN,nutrient-poor minerogenic mire,1.01,Alekseychik et al. 2018,192,10,50,0.60,0.68,0.11,12.9,-5.27,"Peichl et al., 2014"
+SE-FAJ,PTL,2.8,56.27,13.55,7.6,745,585,457,BOG,tree-covered eccentric bog,0.66,Alekseychik et al. 2018,177,3,15,1.49,2.43,0.13,4.8,-1.47,http://gaia.agraria.unitus.it/ghg-europe/site-details?id=SE-Faj
+SE-FLA,ENF,3.5,64.11,19.46,1.5,663,447,382,NA,Norway spruce forest,0.8,Launianen et al. 2016,196,8,43,1.05,0.82,0.13,13.6,-7.35,http://www.europe-fluxdata.eu/home/site-details?id=SE-Fla
+SE-HTM,ENF,3.7,56.10,13.42,7.6,817,572,444,NA,Norway spruce forest,NA,,466,2,10,1.08,1.31,0.11,14.9,-7.39,http://www.europe-fluxdata.eu/home/site-details?id=SE-Htm
+SE-KNO,ENF,3.3,61.00,16.22,4.1,664,468,386,NA,Norway spruce forest,0.83,Launianen et al. 2016,300,4,20,0.86,1.00,0.12,19.9,-10.23,http://www.europe-fluxdata.eu/home/site-details?id=SE-Kno
+SE-NOR,ENF,3.6,60.09,17.48,5.6,592,518,421,NA,mixed pine and spruce forest,0.95,Lindroth et al. 2010,282,15,81,0.98,1.50,0.11,18.4,-9.60,https://www.icos-sweden.se/station_norunda.html
+SE-RO2,ENF,2.3,64.17,19.75,1.7,654,446,379,NA,Scots pine forest,NA,NA,258,3,18,0.83,0.73,0.11,14.8,-6.36,"Jocher et al., 2017"
+SE-RO3,ENF,2.3,64.17,19.75,1.7,654,446,379,NA,Scots pine forest,NA,NA,223,3,18,0.90,0.95,0.10,NA,NA,http://www.europe-fluxdata.eu/home/site-details?id=SE-Ros
+SE-SK1,ENF,3.5,60.13,17.92,6.0,558,546,439,NA,Scots pine forest,0.92,Launianen et al. 2016,265,3,20,0.84,1.01,0.10,9.5,-3.65,http://www.europe-fluxdata.eu/home/site-details?id=SE-Sk1
+SE-SK2,ENF,4.2,60.13,17.84,6.0,558,546,439,NA,Scots pine forest,0.73,Launianen et al. 2016,238,1,7,0.77,NA,0.12,15.5,-8.48,http://www.europe-fluxdata.eu/home/site-details?id=SE-Sk2
+SE-ST1,PTL,1.0,68.35,19.05,-3.3,332,364,303,FEN,minerotrophic fen,0.8,PI,273,3,14,0.59,NA,0.11,17.4,-7.58,DOI:10.18140/FLX/1440187
+SE-ST2,PTL,1.0,68.36,19.05,-3.3,332,364,303,BOG,mixed mire,0.88,PI,215,3,18,0.67,0.62,0.11,17.3,-7.99,"Nigel Roulet, McGill University"
+SE-SVB,ENF,2.9,64.25,19.77,1.7,654,446,379,NA,Scots pine/Norway spruce forest,NA,NA,279,2,14,0.95,0.86,0.11,14.2,-6.99,http://www.icos-sweden.se/station_svartberget.html
+US-ALQ,PTL,5.2,46.03,-89.61,3.9,771,688,488,FEN,sheltered forest-sedge fen ,NA,NA,NA,NA,6,0.33,0.21,0.09,36.9,-21.74,DOI:10.17190/AMF/1246033
+US-BN1,ENF,1.9,63.92,-145.38,-4.0,214,462,368,NA,black spruce forest,0.86,Liu et al. 2005,263,3,15,1.59,2.04,0.13,9.4,-3.89,DOI:10.17190/AMF/1246034
+US-BN2,DBF,1.9,63.92,-145.38,-4.0,214,462,368,NA,Aspen forest,0.83,Liu et al. 2005,248,3,15,0.75,0.79,0.12,8.1,-1.75,DOI:10.17190/AMF/1246035
+US-BN3,OSH,1.2,63.92,-145.74,-3.3,241,461,368,NA,burned black spruce forest,0.8,Liu et al. 2005,193,3,15,1.25,1.77,0.12,9.5,-4.72,DOI:10.17190/AMF/1480323
+US-FCR,ENF,2.0,65.40,-148.94,-2.5,297,466,392,NA,post-burn grass/shrub,0.94,PI,184,2,9,1.22,1.22,0.11,5.5,-1.96,"Ueyama et al. 2019, https://ameriflux.lbl.gov/sites/siteinfo/US-Fcr"
+US-HO1,ENF,3.7,45.20,-68.74,5.3,1107,682,489,NA,red spruce-dominated forest,1.03,Hollinger et al 1999,277,22,112,0.68,0.76,0.11,12.9,-4.75,DOI:10.17190/AMF/1246061
+US-LOS,PTL,5.1,46.08,-89.98,3.9,771,688,488,FEN,salix (willow) and alnus (alder) shrub fen,0.64,PI,425,5,25,0.28,0.20,0.12,11.8,-0.42,DOI:10.17190/AMF/1246071
+US-LTB,PTL,2.4,64.70,-148.32,-2.1,296,477,400,BOG,collapse-scar bog,0.87,Euskirchen et al. 2014,241,8,40,0.62,0.55,0.14,6.7,-0.96,"Euskirchen et al., 2014"
+US-LTF,PTL,2.1,64.70,-148.31,-2.1,296,477,400,FEN,rich fen,0.91,Euskirchen et al. 2014,277,8,40,0.36,0.30,0.15,9.4,-1.29,"Euskirchen et al., 2014"
+US-LTS,ENF,2.4,64.70,-148.32,-2.1,296,477,400,NA,black spruce forest,0.89,Euskirchen et al. 2014,206,7,39,1.06,1.42,0.14,9.6,-4.02,"Euskirchen et al., 2014"
+US-NMJ,ENF,2.2,46.65,-88.52,4.1,782,690,496,NA,Jack pine forest,NA,NA,NA,NA,14,1.25,1.62,0.15,9.7,-3.13,DOI:10.17190/AMF/1246087
+US-RPF,ENF,1.9,65.12,-147.43,-4.3,215,442,361,NA,young forest after fire,0.86,PI,213,8,41,0.84,0.90,0.12,8.8,-3.37,"Ueyama et al., 2019, https://ameriflux.lbl.gov/sites/siteinfo/US-Rpf"
+US-PRR,ENF,1.8,65.12,-147.49,-4.3,215,442,361,BOG,black spruce forest,0.97,Nakai et al. 2013,182,2,19,1.06,1.20,0.13,10.7,-4.68,DOI:10.17190/AMF/1246153
+US-UAF,ENF,1.8,64.87,-147.86,-2.0,276,496,415,BOG,open black spruce forest,0.9,Iwata et al. 2012,180,13,70,1.16,1.19,0.14,7.3,-2.91,DOI:10.17190/AMF/1480322
