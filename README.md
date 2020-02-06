@@ -16,4 +16,5 @@
 # CA-NOB.csv - example file for eddy covariance data (from the Nobel EC site, Canada)
 # CIRCUM_BOREAL.shp - shapefile outlining the boreal biome [based on Olson, D. M. et al. Terrestrial ecoregions of the world: a new map of life on Earth. BioScience 51, 933 (2001)]
 # in_boreal_CRU.mat - gridded Matlab file (0.5deg x 0.5deg) masking the boreal biome (boreal = 1; non-boreal = 0)
+# Suppl_Table_2_Helbig_et_al_2020.csv - eddy covariance flux tower site information on 95 boreal sites used in this study
 #############################################################
