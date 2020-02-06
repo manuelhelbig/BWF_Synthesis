@@ -8,6 +8,7 @@ function [LAT_CRU, LON_CRU, DI_CRU] = dryness_index_CRU(path_PRE, path_PET)
 % Input:
 % path_PRE: path to folder containing files with precipitation data
 % path_PET: path to folder containing files with potential evapotranspiration data
+% CRU TS data can be downloaded from the Climate Research Unit, University of East Anglia website: https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.03/
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 finfo = dir([path_PRE '*.nc']);
 PRE=[];
