@@ -9,6 +9,7 @@ function [LAT_CMIP5, LON_CMIP5, VPD_CMIP5] = VPD_CMIP5(path_HUSS, path_TAMAX, pa
 % path_HUSS: path to specific humidity data
 % path_TAMAX: path to maximum air temperature data
 % path_PSL: path to near-surface atmospheric pressure data
+% Earth system model output for the CMIP5 project can be accessed here: https://esgf-node.llnl.gov/search/cmip5/
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % get specific humidity
