@@ -4,7 +4,14 @@
 ############################################################
 # The following code is available:
 # gs.m - derives surface conductance by inverting the Penman-Monteith equation
-# ga.m
-# dryness_index_CRU.m
-# future_ET_ratio.m
-# boundary_line_analysis.m
+# ga.m - calculates aerodynamic conductance based on wind speed and friction velocity measurements
+# dryness_index_CRU.m - calculates dryness index from Climate Research Unit data
+# future_ET_ratio.m - estimates the ratio of peatland and forest evapotranspiration under current and future climates 
+# boundary_line_analysis.m - analysis of the upper boundary response of surface conductance and evapotranspiration to vapour pressure deficit
+# VPD_CMIP5.m - derivation of daily maximum vapour pressure deficit from Earth system model output
+# ET_map.m - creates a map of the ratio of peatland to forest evapotranspiration and its change under future climates
+# ET_gs_responses.m - plots the upper boundary response of peatland and forest evapotranspiration to vapour pressure deficit
+#############################################################
+# following datasets are available
+# CA-NOB.csv - example file for eddy covariance data (from the Nobel EC site, Canada)
+# CIRCUM_BOREAL.shp - shapefile outlining the boreal biome [based on Olson, D. M. et al. Terrestrial ecoregions of the world: a new map of life on Earth. BioScience 51, 933 (2001)].
