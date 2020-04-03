@@ -8,6 +8,7 @@ function ET_map(path, lat,lon, ET_PTL, ET_FOR, ET_PTL_FUT, ET_FOR_FUT)
 % path: path to shapefile of boreal biome ['CIRCUM_BOREAL.shp']
 % lat: latitude grid
 % lon: longitude grid
+% blablabla
 % ET_PTL: gridded peatland evapotranspiration estimate
 % ET_FOR: gridded forest evapotranspiration estimate
 % ET_PTL_FUT: gridded future peatland evapotranspiration estimate
